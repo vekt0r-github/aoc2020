@@ -4,7 +4,7 @@ Solutions to days 12-25 of [Advent of Code 2020](https://adventofcode.com/2020) 
 
 ## Usage
 
-A compiled executable covering all code can be run with `app/aoc2020.exe [<day_number> ..]`; it must be run from the repository's base folder. The source code is located in `src/` (day11.py is thrown in for fun because i like the solution), and the input files are in `input/`.
+A compiled executable covering all code can be run with `app/aoc2020.exe [<day_number> ..]`; it must be run from the repository's base folder. The source code is located in `src/` (day11.py is thrown in for fun because I like the solution), and the input files are in `input/`.
 
 ## Notes
 
